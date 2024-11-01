@@ -1,0 +1,76 @@
+description,price,size_m2,bedrooms,bathrooms,parking_spaces
+"Asa Norte, SRTVN Quadra 701 Conjunto C",220.000,33,-,1,-
+"Asa Norte, CLN 314",350.000,"34,59",1,1,-
+"Asa Norte, CLN 314",350.000,"34,59",1,1,-
+"Asa Norte, SHN Quadra 2 Bloco F",400.000,"47,93",-,1,-
+"Jardins Mangueiral, Quadra QC 15 Rua A",550.000,"131,46",4,3,2
+"Jardins Mangueiral, Quadra QC 15 Rua A",550.000,"131,46",4,3,2
+"Asa Sul, SQS 408",829.900,60,2,1,-
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",950.000,"290,91",3,3,4
+"Setor Habitacional Jardim Botânico, Condomínio Privê Morada Sul Etapa A",950.000,"290,91",3,3,4
+"Setor Habitacional Jardim Botânico, Condomínio Privê Morada Sul Etapa A",950.000,"290,91",3,3,4
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",950.000,"290,91",3,3,4
+"Noroeste, SQNW 307",1.090.000,"73,47",2,2,1
+"Jardim Botânico, Condomínio Ouro Vermelho I",1.820.000,477,3,7,6
+"Jardim Botânico, Condomínio Ouro Vermelho I",1.820.000,477,3,7,6
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Sul, SQS 102",1.870.000,169,4,3,1
+"Asa Sul, SQS 102",1.870.000,169,4,3,1
+"Lago Norte, Condomínio Privê I Quadra 3 Conjunto C",2.130.000,"418,96",4,5,4
+"Lago Norte, Condomínio Privê I Quadra 3 Conjunto C",2.130.000,"418,96",4,5,4
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",2.700.000,"2.700,39",2,1,-
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",2.700.000,"2.700,39",2,1,-
+"Asa Sul, SCS Quadra 6",200.000,"58,73",-,2,-
+"Centro, SCS Quadra 6",200.000,"58,73",-,2,-
+"Centro, SCS Quadra 6",200.000,"58,73",-,2,-
+"Asa Sul, SCS Quadra 6",200.000,"58,73",-,2,-
+"Setor Habitacional Jardim Botânico, Condomínio Quintas do Sol",450.000,"670,75",-,-,-
+"Jardim Botânico, Condomínio Quintas do Sol",450.000,"670,75",-,-,-
+"Jardim Botânico, Condomínio Quintas do Sol",450.000,"670,75",-,-,-
+"Setor Habitacional Jardim Botânico, Condomínio Quintas do Sol",450.000,"670,75",-,-,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Sul, SQS 403",780.000,90,3,2,-
+"Asa Norte, SQN 415",799.900,"76,72",3,2,-
+"Asa Norte, SQN 211",1.550.000,"100,24",3,3,1
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa C",1.750.000,272,4,4,2
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa C",1.750.000,272,4,4,2
+"Noroeste, SQNW 109",1.850.000,"150,34",3,3,3
+"Noroeste, SQNW 109",1.850.000,"150,34",3,3,3
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa C",1.980.000,500,5,6,2
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa C",1.980.000,500,5,6,2
+Jardim Botânico,1.990.000,320,3,5,4
+Setor Habitacional Jardim Botânico,1.990.000,320,3,5,4
+Setor Habitacional Jardim Botânico,1.990.000,320,3,5,4
+Jardim Botânico,1.990.000,320,3,5,4
+"Asa Sul, SQS 109",2.200.000,"130,52",4,4,1
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Sul, SQS 306 Bloco I",2.200.000,154,3,2,-
+"Asa Sul, SQS 109",2.200.000,"130,52",4,4,1
+"Asa Sul, SQS 207",2.450.000,"175,15",3,3,1
+"Asa Sul, SQS 207",2.450.000,"175,15",3,3,1
+"Asa Norte, CLN 212 BLOCO A",155.000,"27,31",-,1,-
+"Asa Sul, SAUS Quadra 5 Bloco N Lote 2",165.000,"38,12",-,1,1
+"Asa Norte, SBN Quadra 2 Bloco J",165.000,33,-,1,-
+"Lago Norte, CA 11",180.000,"24,56",-,1,1
+Asa Norte,186.000,"33,08",-,1,-
+Asa Norte,186.000,"33,08",-,1,-
+"Asa Sul, SAUS Quadra 5 Bloco N Lote 2",190.000,"25,15",-,1,-
+"Asa Norte, SRTVN",200.000,"32,9",-,1,-
+"Asa Norte, SCN QUADRA 2",218.000,"34,15",-,1,-
+"Asa Norte, SCN QUADRA 2",218.000,"34,15",-,1,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Sudoeste, CCSW 5",265.000,"26,78",-,1,-
+"Asa Norte, SCN Quadra 1 Bloco F",280.000,"33,16",-,1,1
+"Asa Norte, SCN Quadra 1 Bloco F",280.000,"33,16",-,1,1
+"Asa Sul, SEPS 712-912",290.000,"26,14",1,1,1
+"Asa Sul, SEPS 712-912",290.000,"26,14",1,1,1
+"Jardins Mangueiral, Quadra QC 14 Rua B",315.000,"58,45",2,1,1
+"Jardim Botânico, Condomínio Morada de Deus",320.000,"632,43",-,-,-
+"Jardim Botânico, Condomínio Morada de Deus",320.000,"632,43",-,-,-
+"Asa Norte, SHN QUADRA 2",325.000,38,-,-,-
+"Jardim Botânico, Condomínio Ouro Vermelho I",350.000,720,-,-,-
+"Setor Habitacional Jardim Botânico, Condomínio Ouro Vermelho I",350.000,720,-,-,-
+"Setor Habitacional Jardim Botânico, Condomínio Ouro Vermelho I",350.000,720,-,-,-
+"Jardim Botânico, Condomínio Ouro Vermelho I",350.000,720,-,-,-
+"Zona Industrial, SGCV Lote 13",380.000,27,1,1,1
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
