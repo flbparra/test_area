@@ -1,0 +1,18 @@
+description,price,size_m2,bedrooms,bathrooms,parking_spaces
+"Asa Norte, SRTVN Quadra 701 Conjunto C",220.000,33,-,1,-
+"Asa Norte, CLN 314",350.000,"34,59",1,1,-
+"Asa Norte, CLN 314",350.000,"34,59",1,1,-
+"Asa Norte, SHN Quadra 2 Bloco F",400.000,"47,93",-,1,-
+"Jardins Mangueiral, Quadra QC 15 Rua A",550.000,"131,46",4,3,2
+"Jardins Mangueiral, Quadra QC 15 Rua A",550.000,"131,46",4,3,2
+"Asa Sul, SQS 408",829.900,60,2,1,-
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",950.000,"290,91",3,3,4
+"Setor Habitacional Jardim Botânico, Condomínio Privê Morada Sul Etapa A",950.000,"290,91",3,3,4
+"Setor Habitacional Jardim Botânico, Condomínio Privê Morada Sul Etapa A",950.000,"290,91",3,3,4
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",950.000,"290,91",3,3,4
+"Noroeste, SQNW 307",1.090.000,"73,47",2,2,1
+"Jardim Botânico, Condomínio Ouro Vermelho I",1.820.000,477,3,7,6
+"Jardim Botânico, Condomínio Ouro Vermelho I",1.820.000,477,3,7,6
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if

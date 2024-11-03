@@ -1,0 +1,226 @@
+description,price,size_m2,bedrooms,bathrooms,parking_spaces
+"Asa Norte, SRTVN Quadra 701 Conjunto C",950,33,-,1,-
+"Asa Sul, SCS Quadra 6",700,"58,73",-,2,-
+"Centro, SCS Quadra 6",700,"58,73",-,2,-
+"Centro, SCS Quadra 6",700,"58,73",-,2,-
+"Asa Sul, SCS Quadra 6",700,"58,73",-,2,-
+"Asa Sul, SBS Quadra 2 Bloco S Lote 1",700,"28,35",-,1,-
+"Asa Sul, SRTVS Conjunto D Blocos A, B e C Lote 5",780,"34,03",-,1,-
+"Asa Norte, SBN Quadra 2 Bloco J",800,33,-,1,-
+"Asa Sul, SAUS Quadra 5 Bloco N Lote 2",850,"38,12",-,1,1
+"Asa Sul, SAUS Quadra 5 Bloco N Lote 2",900,"25,15",-,1,-
+"Asa Sul, SGAS 910",950,"26,46",-,1,-
+"Asa Norte, SHLN BLOCO K",1.000,32,-,1,1
+"Lago Norte, CA 11",1.200,"24,56",-,1,1
+"Asa Norte, SEPN 504 BLOCO B",1.250,"45,92",-,2,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Sul, SHLS",2.200,"59,24",-,2,-
+"Lago Norte, CA 5 (Centro de Atividades)",2.250,"48,32",1,1,1
+"Lago Norte, CA 5 (Centro de Atividades)",2.250,"48,32",1,1,1
+"Lago Norte, CA 2 (Centro de Atividades)",2.300,"30,97",1,1,1
+"Asa Norte, CLN 115 BLOCO B",2.300,"72,8",-,1,-
+"Lago Norte, CA 2 (Centro de Atividades)",2.450,"42,22",2,1,1
+"Jardim Botânico, Condomínio Verde",2.900,174,1,1,1
+"Jardins Mangueiral, Praça de Atividades 5",3.800,"106,43",-,-,-
+"Jardins Mangueiral, Praça de Atividades 5",3.800,"106,43",-,-,-
+"Asa Sul, SQS 414",3.900,"74,64",3,3,-
+"Jardins Mangueiral, Praça de Atividades 5",4.500,"106,43",-,-,-
+"Jardins Mangueiral, Praça de Atividades 5",4.500,"106,43",-,-,-
+"Noroeste, SQNW 310 Bloco B",4.700,"78,14",2,3,2
+"Noroeste, SQNW 307",5.500,"85,37",1,1,2
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Noroeste, SQNW 307",5.500,"85,37",1,1,2
+"Noroeste, SQNW 310",5.950,"74,21",2,3,2
+"Jardim Botânico, Condomínio Ouro Vermelho I",6.000,344,3,5,4
+"Setor Habitacional Jardim Botânico, Condomínio Ouro Vermelho I",6.000,344,3,5,4
+"Setor Habitacional Jardim Botânico, Condomínio Ouro Vermelho I",6.000,344,3,5,4
+"Jardim Botânico, Condomínio Ouro Vermelho I",6.000,344,3,5,4
+"Jardins Mangueiral, Praça de Atividades 5",8.300,220,-,-,-
+"Jardins Mangueiral, Praça de Atividades 5",8.500,220,-,-,-
+"PARK SUL, SOF Sul Quadra 15 Conjunto A",10.850,"161,4",-,3,-
+"Jardins Mangueiral, Praça de Atividades 5",16.600,220,-,-,-
+"Jardins Mangueiral, Praça de Atividades 5",20.300,220,-,-,-
+"Jardins Mangueiral, Praça de Atividades 5",28.600,330,-,-,-
+"Jardim Botânico, Condomínio Verde",5.500,368,3,4,2
+"Setor Habitacional Jardim Botânico, Condomínio Verde",5.500,368,3,4,2
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Setor Habitacional Jardim Botânico, Condomínio Verde",5.500,368,3,4,2
+"Jardim Botânico, Condomínio Verde",5.500,368,3,4,2
+"Park Way, SMPW QUADRA 25 CONJUNTO 1, 0",8.500,4.070,10,9,6
+"Park Way, SMPW QUADRA 25 CONJUNTO 1, 0",8.500,4.070,10,9,6
+"Jardim Botânico, Condomínio Jardim Botânico V",15.000,500,5,9,2
+"Jardim Botânico, Condomínio Jardim Botânico V",15.000,500,5,9,2
+"PARK SUL, SGCV (St Garagens e Conces de Veículos)",25.000,347,4,6,4
+"PARK SUL, SGCV (St Garagens e Conces de Veículos)",25.000,347,4,6,4
+"Lago Norte, SHIN QI 5 Conjunto 7",22.000,750,5,8,4
+"Asa Norte, SRTVN Conjunto C",850,33,-,1,-
+"Asa Norte, SRTVN Conjunto C",980,33,-,1,-
+"Sudoeste, QMSW 5",1.550,"23,95",1,1,1
+"Sudoeste, QMSW 5",1.550,"23,95",1,1,1
+"Asa Norte, CLN 203 BLOCO D",3.500,"52,36",-,2,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Norte, SRTVN Quadra 701 Conjunto C",6.000,"102,44",-,1,-
+"Jardim Botânico, Condomínio Ouro Vermelho II",6.500,312,3,2,1
+"Setor Habitacional Jardim Botânico, Condomínio Ouro Vermelho II",6.500,312,3,2,1
+"Setor Habitacional Jardim Botânico, Condomínio Ouro Vermelho II",6.500,312,3,2,1
+"Jardim Botânico, Condomínio Ouro Vermelho II",6.500,312,3,2,1
+"Centro, SRTVS",799,34,-,1,-
+"Asa Sul, SRTVS",799,34,-,1,-
+"Asa Norte, CLN 105 BLOCO D",800,"22,26",-,1,-
+"Asa Norte, CLN 105 BLOCO D",800,"22,26",-,1,-
+"Asa Sul, SRTVS Conjunto L Lote 38",800,32,-,1,1
+"Asa Sul, SGAS 910",850,"26,46",-,1,-
+"Asa Norte, CLN 311",880,"32,11",-,1,-
+"Asa Norte, CLN 311",880,"32,11",-,1,-
+"Asa Norte, SRTVN Conjunto C, 0",890,33,-,1,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Norte, SRTVN Quadra 701 Conjunto C",980,33,-,1,-
+Asa Norte,980,"32,9",-,1,-
+"Asa Norte, SRTVN Conjunto C",1.000,"32,9",-,1,-
+"Asa Sul, SGAS 910",1.000,27,-,2,-
+"Asa Sul, SEPS 707-907",1.000,"37,05",-,1,1
+"Centro, SRTVS Bloco K",1.050,"30,8",-,1,1
+"Asa Sul, SRTVS Bloco K",1.050,"30,8",-,1,1
+"Asa Norte, SRTVN Conjunto C, 0",1.100,33,-,1,-
+"Asa Norte, CLN 306 BLOCO E, 0",1.100,48,-,1,-
+"Asa Norte, SRTVN Conjunto C",1.200,33,-,1,1
+"Asa Sul, EQS 102-103",1.350,"28,99",-,-,-
+"Asa Sul, SDS Bloco M",1.400,"645,7",-,6,-
+"Lago Norte, CA 2 (Centro de Atividades)",1.499,34,1,-,-
+"Lago Norte, CA 2 (Centro de Atividades)",1.499,34,1,-,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Norte, SHLN BLOCO L LOTE 12",1.500,"30,7",-,1,-
+"Sudoeste, CCSW 5 LOTE 1 BLOCO A",1.500,35,1,1,-
+"Asa Norte, SHLN BLOCO L LOTE 12",1.500,"30,7",-,-,-
+"Asa Norte, SHLN BLOCO L LOTE 12",1.500,"30,7",-,1,-
+"Asa Norte, SCN Quadra 1 Bloco F",1.500,31,-,1,1
+"Asa Norte, SHLN",1.550,"52,27",-,1,-
+"Asa Norte, SCN QUADRA 1 BLOCO E, 0",1.590,"27,39",-,1,1
+"Asa Norte, SMHN 2 Bloco A, 0",1.650,"40,63",-,1,-
+"Asa Norte, SMHN 2 Bloco A, 0",1.650,"40,63",-,1,-
+"Sudoeste, EQRSW 2-3",1.700,28,1,1,-
+"Sudoeste, EQRSW 2-3",1.700,28,1,1,-
+"PARK SUL, SGCV LOTE 11",1.800,30,1,1,1
+"PARK SUL, SGCV LOTE 11",1.800,30,1,1,1
+"Asa Sul, SDS Bloco F e G Lote  Lote 41",1.800,"142,08",-,4,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Sul, SAUS Quadra 4 Lote 9-10",1.800,"53,46",-,-,-
+"Asa Norte, SGAN 914",1.900,40,1,1,1
+"Asa Sul, SEPS 709-909",1.900,"32,31",-,2,1
+"Asa Norte, SHN QUADRA 1",1.990,"33,27",-,1,-
+"Jardim Botânico, Quadra QC 7",2.000,48,2,1,1
+"Jardins Mangueiral, Quadra QC 7",2.000,48,2,1,1
+"Asa Sul, SEPS 705-905",2.100,"47,76",-,-,-
+"Asa Sul, SEPS 705-905",2.100,"47,76",-,-,-
+"Asa Sul, SHS Quadra 6 Conjunto A, 0",2.190,"21,7",-,-,-
+"PARK SUL, SGCV Lote 13, 0",2.290,"24,35",1,1,1
+"PARK SUL, SGCV Lote 13, 0",2.290,"24,35",1,1,1
+"Asa Sul, SQS 212 Bloco D",2.500,56,1,1,-
+"PARK SUL, SGCV (St Garagens e Conces de Veículos)",2.500,30,1,1,1
+"Asa Sul, SQS 410 Bloco P",2.500,50,2,1,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Sudoeste, QRSW 6 BLOCO B-8",2.500,"61,72",2,1,-
+"PARK SUL, SGCV (St Garagens e Conces de Veículos)",2.500,30,1,1,1
+"Asa Norte, SCN QUADRA 02 BLOCO D, 0",2.500,60,1,1,-
+"Lago Norte, CA 10 (Centro de Atividades), 0",2.580,"49,71",1,1,1
+"Lago Norte, CA 10 (Centro de Atividades), 0",2.580,"49,71",1,1,1
+"Lago Norte, CA 10 (Centro de Atividades)",2.590,"50,32",1,2,1
+"Lago Norte, CA 10 (Centro de Atividades)",2.590,"50,32",1,2,1
+"Asa Norte, SQN 407 BLOCO B",2.600,"60,47",1,1,-
+"Noroeste, SQNW 307 Bloco C",2.600,"34,12",1,1,1
+"Sudoeste, QRSW 3 BLOCO B-4, 0",2.600,55,2,1,-
+"Sudoeste, QRSW 3 BLOCO B-2",2.600,"61,48",2,1,-
+"Octogonal, AOS 7",2.600,65,2,2,1
+"Octogonal, AOS 7",2.600,65,2,2,1
+"Jardim Botânico, Condomínio Jardim Botânico V",2.800,"72,64",2,2,2
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Jardim Botânico, Condomínio Jardim Botânico V",2.800,"72,64",2,2,2
+"Lago Norte, CA 3 (Centro de Atividades)",2.990,150,1,3,-
+"Lago Norte, CA 3 (Centro de Atividades)",2.990,150,1,3,-
+"Asa Norte, CLN 313 BLOCO A, 0",3.000,"109,91",-,-,-
+"Asa Norte, SCN Quadra 5 Bloco A, 0",3.190,"31,7",-,1,1
+"Asa Norte, SQN 216 BLOCO H",3.200,"42,21",1,1,1
+"Asa Norte, SHTN Trecho 1",3.200,37,1,1,-
+"Asa Norte, SMHN QUADRA 2 BLOCO B, 0",3.200,30,-,1,-
+"Asa Norte, SHTN Trecho 1",3.200,37,1,1,-
+"Jardim Botânico, Condomínio Belvedere Green, 0",3.490,250,4,5,2
+"Jardim Botânico, Condomínio Belvedere Green, 0",3.490,250,4,5,2
+"Asa Sul, SQS 403 Bloco I",3.500,"63,07",3,1,-
+"Asa Sul, SHS Quadra 2",3.531,151,2,3,-
+"Centro, SHS Quadra 2",3.531,151,2,3,-
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Centro, SHS Quadra 2",3.531,151,2,3,-
+"Asa Sul, SHS Quadra 2",3.531,151,2,3,-
+"Asa Norte, SQN 409 BLOCO N",3.550,"95,3",3,2,-
+"Asa Norte, SQN 316 BLOCO D",3.600,"63,13",2,2,1
+"Asa Sul, SQS 414 Bloco E",3.850,"62,85",3,2,-
+"Asa Norte, SHTN Trecho 1",3.979,53,1,1,1
+"Asa Norte, SHTN Trecho 1",3.979,53,1,1,1
+"Asa Norte, SHTN Trecho 1",4.200,53,1,1,1
+"Asa Norte, SQN 402 BLOCO F",4.200,75,2,2,-
+"Asa Norte, SQN 411 Bloco G",4.350,"95,3",3,2,-
+"Asa Norte, SQN 411 Bloco G",4.350,"95,3",3,2,-
+"Asa Norte, SCN Quadra 1 Bloco F",4.500,100,-,3,3
+"Asa Sul, SCS QUADRA 01 BLOCO E LOTE 30, 0",4.500,150,-,2,-
+"Asa Norte, SCN Quadra 1 Bloco F",4.500,100,-,3,3
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Sul, SCES Trecho 4",4.800,"44,88",1,1,1
+"Asa Sul, SCES Trecho 4",4.800,"44,88",1,1,1
+"Asa Sul, SQS 410 Bloco J",4.900,54,2,1,-
+"Asa Norte, SQN 115 BLOCO E",4.900,"122,68",3,3,1
+"Sudoeste, CCSW 2",4.900,90,1,2,2
+"Sudoeste, CCSW 2",4.900,90,1,2,2
+"Asa Norte, SCLRN 706 BLOCO A",4.900,204,-,4,-
+"Asa Norte, SCLRN 706 BLOCO A",4.900,204,-,4,-
+"Sudoeste, SQSW 100 BLOCO F",4.950,"88,61",3,3,1
+"Noroeste, SQNW 306 BLOCO E",4.999,"66,73",2,3,2
+"Asa Norte, SQN 402",5.000,"69,94",2,2,1
+"Asa Sul, SQS 311 Bloco D",5.000,"108,32",3,2,1
+"Noroeste, SQNW 103 BLOCO B",5.200,"75,94",2,3,1
+"Noroeste, SQNW 108 Bloco I",5.200,77,2,3,2
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Norte, SQN 316 BLOCO F",5.400,128,3,2,1
+"Asa Sul, SQS 113 Bloco K",5.500,"100,13",3,2,1
+"Asa Sul, SQS 206 Bloco D",5.500,"124,81",3,2,1
+"Asa Norte, SQN 316 BLOCO F",5.700,"128,06",3,3,1
+"Park Way, SMPW QUADRA 15",5.900,350,5,5,2
+"Park Way, SMPW QUADRA 15",5.900,350,5,5,2
+"Asa Norte, 203 Bloco H",6.000,"93,94",2,2,1
+"Asa Norte, SQN 112 BLOCO E, 0",6.000,137,3,3,1
+"Asa Norte, SQN 213 BLOCO F, 0",6.300,117,3,3,2
+"Zona Industrial, SGCV Lote 27",6.500,"74,74",2,3,1
+"PARK SUL, SGCV Lote 27",6.500,"74,74",2,3,1
+"Sudoeste, SQSW 504 BLOCO G",6.500,130,4,5,2
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",6.500,250,3,2,2
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",6.500,250,3,2,2
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Asa Norte, SHCGN 714",7.000,204,4,3,4
+"Octogonal, AOS 2",7.500,"164,2",4,2,1
+"Sudoeste, SQSW 105",7.700,115,3,2,2
+"Park Way, SMPW QUADRA 28 CONJUNTO 2",8.100,350,4,5,4
+"Park Way, SMPW QUADRA 28 CONJUNTO 2",8.100,350,4,5,4
+"Asa Norte, SQN 114 BLOCO B",8.500,"173,6",3,3,1
+"Asa Sul, SHLS Bloco L",9.000,"99,71",-,-,1
+"Asa Sul, SHLS Bloco L",9.000,"99,71",-,-,1
+"Asa Sul, EQS 102-103, 0",10.000,320,-,-,-
+"Asa Sul, EQS 102-103, 0",10.000,320,-,-,-
+"Jardim Botânico, Condomínio  Mansões Itaipu",10.500,400,4,7,4
+"Jardim Botânico, Condomínio  Mansões Itaipu",10.500,400,4,7,4
+"Asa Sul, SQS 112 Bloco C",12.500,200,3,4,3
+"Sudoeste, CCSW 02 Lote 2",12.900,290,6,6,3
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
+"Sudoeste, CCSW 02 Lote 2",12.900,290,6,6,3
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",14.000,500,5,6,4
+"Jardim Botânico, Condomínio Privê Morada Sul Etapa A",14.000,500,5,6,4
+"Noroeste, SQNW 110 Bloco J",15.000,"367,72",3,4,3
+"Noroeste, SQNW 110 Bloco J",15.000,"367,72",3,4,3
+"Park Way, SMPW QUADRA 1 CONJUNTO 3",20.000,"487,76",4,6,2
+"Park Way, SMPW QUADRA 1 CONJUNTO 3",20.000,"487,76",4,6,2
+"Asa Norte, SHN QUADRA 1",25.000,250,-,6,7
+"Centro, SHN QUADRA 1",25.000,250,-,6,7
+"Centro, SHN QUADRA 1",25.000,250,-,6,7
+"Asa Norte, SHN QUADRA 1",25.000,250,-,6,7
+"Asa Norte, SHN QUADRA 1",33.000,360,-,10,11
+"Centro, SHN QUADRA 1",33.000,360,-,10,11
+"Centro, SHN QUADRA 1",33.000,360,-,10,11
+"{{ nomeBairro }}{{#if logradouroPublico}}, {{ logradouroPublico}}{{/if}}",paramTransacao,{{,{{#if,{{#if,{{#if
