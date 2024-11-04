@@ -1,0 +1,44 @@
+"""usei a biblioteca np para realizar a confecao do codigo, gracas a minha exp em dados, tive essa ideia, acredito que funciona!"""
+
+from collections import Counter
+import numpy as np
+
+class CifraTransposicao:
+    def __init__(self, chave):
+        self.chave = chave
+        self.num_colunas = len(chave)
+
+    def cifra(self, texto):
+        """Cifra o texto!"""
+        while len(texto) % self.num_colunas != 0:
+            texto += ' '  
+        matriz = [texto[i:i + self.num_colunas] for i in range(0, len(texto), self.num_colunas)]
+
+        colunas_permutadas = [''.join([linha[self.chave[i]] for linha in matriz]) for i in range(self.num_colunas)]
+
+        return ''.join(colunas_permutadas)
+
+    def decifra(self, texto_cifrado):
+        col_len = len(texto_cifrado) // self.num_colunas
+        colunas = [texto_cifrado[i * col_len:(i + 1) * col_len] for i in range(self.num_colunas)]
+        possivel_texto = self._analisar_colunas(colunas)
+
+        return possivel_texto.strip()
+
+    def _analisar_colunas(self, colunas):
+        matriz = np.empty((len(colunas[0]), len(colunas)), dtype=str)
+     
+        for i, indice in enumerate(self.chave):
+            matriz[:, indice] = list(colunas[i])
+
+        return ''.join(''.join(row) for row in matriz)
+
+chave = [2, 0, 1]
+texto = "teste de texto para cifra e decifra, oi professora!"
+cifra = CifraTransposicao(chave)
+
+texto_cifrado = cifra.cifra(texto)
+print("Texto Cifrado:", texto_cifrado)
+
+texto_decifrado = cifra.decifra(texto_cifrado)
+print("Texto Decifrado:", texto_decifrado)
